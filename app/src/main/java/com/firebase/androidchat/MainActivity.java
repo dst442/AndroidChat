@@ -1,4 +1,4 @@
-package com.firebase.androidchat;
+package com.firebase.ceochat;
 
 import android.app.ListActivity;
 import android.content.SharedPreferences;
